@@ -1,7 +1,5 @@
 #YelpCamp
 
-Create a web app with full features such as login,create,update,delete,add functionality.Website will list some camping grounds
-
 ##Initial Setup
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
@@ -117,15 +115,12 @@ Each Campground has:
 * Add Edit button
 * Add Update route
 
-Campground Edit Route: <!--/campgrounds/:id/edit-->
-Comment Edit Route:   <!--/campgrounds/:id/comments/:comment_id/edit-->
+<!--/campgrounds/:id/edit-->
+<!--/campgrounds/:id/comments/:comment_id/edit-->
 
 #Deleting Comments
 * Add Destroy route
 * Add Delete button
-
-Campground Destroy Route: /campgrounds/:id
-Comment Destroy Route:    /campgrounds/:id/comments/:comment_id
 
 #Authorization Part 2: Comments
 * User can only edit his/her comments
@@ -133,20 +128,16 @@ Comment Destroy Route:    /campgrounds/:id/comments/:comment_id
 * Hide/Show edit and delete buttons
 * Refactor Middleware
 
+#Adding in Flash!
+* Demo working version
+* Install and configure connect-flash
+* Add bootstrap alerts to header
 
+#Adding backgroud slider
+* Background slider on homepage
+* refactor for dynamic pricing
+* custon CSS file added
 
-
-
-
-* BOOTSTRAP NAV COLLPASE JS
-* Flash Messages
-* Refactor container div to header
-* Show/hide delete and update buttons
-* style login/register forms
-* Random Background Landing Page
-* Refactor middleware
-* change styling in show template - comment delete/update
-* UPDATE/DELETE CAMPGROUND
 
 
 RESTFUL ROUTES
