@@ -133,12 +133,6 @@ Each Campground has:
 * Install and configure connect-flash
 * Add bootstrap alerts to header
 
-#Adding backgroud slider
-* Background slider on homepage
-* refactor for dynamic pricing
-* custon CSS file added
-
-
 
 RESTFUL ROUTES
 
